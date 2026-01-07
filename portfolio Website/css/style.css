@@ -56,7 +56,7 @@ span{
     font-size: var(--p-font);
     font-weight: 500;
     color: var(--other-color);
-    margin-left: 40px;
+    margin-left: 41px;
     transition: all .50s ease;
 }
 .navlist a:hover{
@@ -535,3 +535,4 @@ form .send-btn:hover{
         display: flex;
     }
 }
+
